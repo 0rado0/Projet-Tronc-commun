@@ -1,0 +1,66 @@
+# Blender 4.1.1 MTL File: 'tree.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.752941 0.752941 0.752941
+Ks 0.400000 0.400000 0.400000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Rinde
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.227451 0.227451
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/trist/Desktop/Projet_Tronc_Commun/Github/tree/tree1_3ds/bark_loo.jpg
+
+newmtl Rinde_Leaf
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.474510 0.466667 0.474510
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl Rinde_Level1
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.227451 0.227451
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/trist/Desktop/Projet_Tronc_Commun/Github/tree/tree1_3ds/bark_loo.jpg
+
+newmtl Rinde_Level2
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.227451 0.227451
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/trist/Desktop/Projet_Tronc_Commun/Github/tree/tree1_3ds/bark_loo.jpg
+
+newmtl Rinde_Level3
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Kd 0.247059 0.227451 0.227451
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Bump -bm 1.000000 C:/Users/trist/Desktop/Projet_Tronc_Commun/Github/tree/tree1_3ds/bark_loo.jpg

@@ -1,0 +1,10 @@
+build/
+*.pdb
+imgui.ini
+*.exe
+.vs/
+.vscode/
+*.o
+**/.DS_Store
+*.Identifier
+out/

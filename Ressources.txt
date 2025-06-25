@@ -1,0 +1,10 @@
+Ressources:
+Librairie C++ et Cours Damien Rohmer: https://graphicscomputing.fr/damien.rohmer/index.html
+                                    https://graphicscomputing.fr/cgp/documentation/01_general/index.html 
+Librairies libglfw3 et pkgconfig:
+sudo apt install build-essential pkg-config cmake
+sudo apt install libglfw3-dev
+mkdir -p build && cmake -B build && make -C build && ./build/Totally_Quick_Jolt_Racing
+git config pull.rebase true #Formule pour sauver le gitpush on sait pas ce que ça fait mais ça marche ça force le pull en écrasant ce que les autres ont ajoutés
+                                
+                                

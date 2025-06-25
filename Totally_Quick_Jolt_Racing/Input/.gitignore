@@ -1,0 +1,6 @@
+# a suprimer plus tard
+SDL/
+# a conserver
+out/
+.vs/
+build/

@@ -1,0 +1,6 @@
+.vs/
+.vscode/
+*build/
+CR/
+Trailer/
+test_physique/

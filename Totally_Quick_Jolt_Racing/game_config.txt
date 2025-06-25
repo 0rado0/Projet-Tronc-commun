@@ -1,0 +1,10 @@
+# Map: Great-Plains, Dry-Desert, Snowy-Lands, Sunny-Coast, Mud-Forest, Rocky-Mountains, Candy-Road
+Candy-Road
+# Cycle: Day, Night, Random
+Day
+Music: Twist Stone, Road Main, Flash Content, Add on Drift, Just In Time, Thibocalypse, Random
+Road Main
+# Max Lap
+2.0
+# Render Distance: Min 10, Max 120 (Good experience from 50 to 100)
+80.0
